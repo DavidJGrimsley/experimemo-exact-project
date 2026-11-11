@@ -5,7 +5,7 @@
   "repositories": [
     {
       "id": "source",
-      "remote": "F:\\SoftwareDev\\mrdj-dev-suite-i2Workspace\\test-apps\\experimemo-exact-i2Workspace\\temp\\local-remotes\\experimemo-exact-source.git",
+      "remote": "git@github.com:DavidJGrimsley/experimemo-exact.git",
       "defaultBranch": "main",
       "mainFolder": "experimemo-exact-main",
       "worktreePrefix": "experimemo-exact-"
